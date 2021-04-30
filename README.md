@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GioMaz
 - 👀 I’m interested in Desktop apps and Operating Systems
-- 🌱 I’m currently learning Rust😳
+<!-- - 🌱 I’m currently learning -->
 - 💞️ I’m looking to collaborate on Gnome or some GNU Project
 - 📫 How to reach me giovannimaria.zanchetta@barsanti.edu.it
 
